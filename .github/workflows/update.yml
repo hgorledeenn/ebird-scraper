@@ -9,7 +9,7 @@ on:
   # Run on push to main (for initial setup)
   push:
     branches:
-      - main
+      - master
     paths:
       - 'config.json'
       - 'scraper.py'
